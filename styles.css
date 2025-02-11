@@ -146,7 +146,7 @@ header {
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    justify-content: center;
+    justify-content:center;
     gap: 20px;
     margin-top: 20px;
     position: relative; /* Para manter os cards sobre o overlay */
@@ -157,7 +157,7 @@ header {
     background-color: #132E45;
     padding: 20px;
     border-radius: 8px;
-    width: 300px;
+    width: 200px;
     text-align: center;
     transition: transform 0.3s ease-in-out;
 }
