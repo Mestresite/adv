@@ -44,7 +44,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 50px;
-    background: url('images/img3.jpg') no-repeat center center;
+    background: url('img3.jpg') no-repeat center center;
     background-size: cover;
     position: relative;
 }
@@ -98,7 +98,7 @@ header {
     align-items: center;
     justify-content: space-around;
     background-color: #102A43;
-    background: url('images/images.jpeg') no-repeat center center;
+    background: url('images.jpeg') no-repeat center center;
     background-size: cover;
     position: relative;
     padding: 20px;
@@ -119,7 +119,7 @@ header {
     text-align: center;
     align-items: center;
     justify-content: space-between;
-    background: url('images/img4.jpg') no-repeat center center;
+    background: url('img4.jpg') no-repeat center center;
     background-size: cover;
     padding: 50px;
     position: relative; /* Para adicionar o overlay */
