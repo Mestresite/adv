@@ -144,7 +144,7 @@ header {
 }
 
 .cards {
-    display: flex;
+    display: grid;
     justify-content: center;
     gap: 20px;
     margin-top: 20px;
@@ -166,7 +166,7 @@ header {
 }
 
 .card img {
-    width: 100%;
+    width: 20%;
     border-radius: 5px;
 }
 
